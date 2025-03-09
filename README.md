@@ -11,7 +11,7 @@ Specifically designed 16 Timbre NBS and MusicBox collection, broadcast using Dis
 
 
 ## 目录 Catalog
-- [快速开始 / QuickStart](#-快速开始--quickstart)
+- [快速开始 / QuickStart](#快速开始--quickstart)
 - [游戏中使用 / Usage](#游戏中使用--usage)
 </br></br>
 - [音符盒入门 / Basic Noteblock](#音符盒入门--basic-noteblock)
@@ -20,7 +20,7 @@ Specifically designed 16 Timbre NBS and MusicBox collection, broadcast using Dis
 - [贡献指南 / Contribution](#贡献指南--contribution)
 - [许可证 / License](#许可--license)
 
-## ⚡ 快速开始 / QuickStart
+## 快速开始 / QuickStart
 
 1. **获取NBS文件 / GetNBS**
    ```bash
