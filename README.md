@@ -65,7 +65,7 @@ Specifically designed 16 Timbre NBS and MusicBox collection, broadcast using Dis
 
 ## 音符盒入门 / Basic Noteblock
 
-![Noteblock](./assets/Noteblock1.jpg)
+![Noteblock](./assets/Noteblock1.jpg) </br>
 中字: 数字代表右键点击次数
 
 ![Noteblock2](./assets/Noteblock2.png)
@@ -144,14 +144,16 @@ Some problem you might encounter:
 ## 贡献指南 / Contribution
 
 欢迎通过Pull Request提交
-- 无版权争议&高质量&可以脚本播放的.nbs
-    - [类型]曲名.nbs
+- 无版权争议&可以脚本播放的.nbs
+    - nbs.autoconverted/类型/[类型]曲名.nbs
+    - nbs.handcrafted/类型/[类型]曲名.nbs
 - 改进的音符盒排列方案.schematic
 - 文档翻译/错误修正/重新规范曲库命名/重新排列曲库分类
 
 Welcome contribution with pr:
-- Mod playable high quality .nbs without copyright disputes
-    - [type]name.nbs
+- Mod playable .nbs without copyright disputes
+    - nbs.autoconverted/genre/[catagory]name.nbs
+    - nbs.handcrafted/genre/[catagory]name.nbs
 - improved musicbox design.schemetic
 - text correction/organize and standardize the music library
 
