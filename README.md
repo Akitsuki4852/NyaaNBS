@@ -18,7 +18,6 @@ Specifically designed 16 Timbre NBS and MusicBox collection, broadcast using Dis
 - [舞台搭建指南 / Build Stage](#舞台搭建指南--stage-buildup)
 - [排疑解难 / Trouble Shoot](#排疑解难--trouble-shoot)
 - [贡献指南 / Contribution](#贡献指南--contribution)
-- [许可证 / License](#许可--license)
 
 ## 快速开始 / QuickStart
 
@@ -135,28 +134,26 @@ Some problem you might encounter:
 - 播放时音符盒不见了 Noteblock Disappearing?
     - 不要手持斧头进行播放。请立即停止并维修。
     - Do not use axe for playing. Stop and repair your musicbox.
-
-- 想在别的服播 play in other server?
-    - 非常欢迎，这里的nbs是开源的。
-    - Welcome, these nbs are open sourced.
+    
 
 
 ## 贡献指南 / Contribution
 
 欢迎通过Pull Request提交
-- 无版权争议&可以脚本播放的.nbs
+- 可以脚本播放的.nbs
     - nbs.autoconverted/类型/[类型]曲名.nbs
     - nbs.handcrafted/类型/[类型]曲名.nbs
 - 改进的音符盒排列方案.schematic
 - 文档翻译/错误修正/重新规范曲库命名/重新排列曲库分类
 
 Welcome contribution with pr:
-- Mod playable .nbs without copyright disputes
+- Mod playable .nbs
     - nbs.autoconverted/genre/[catagory]name.nbs
     - nbs.handcrafted/genre/[catagory]name.nbs
 - improved musicbox design.schemetic
 - text correction/organize and standardize the music library
 
-## 许可 / License
-GNU General Public License v3.0。
+## 警告 Warning
 
+本资源仅供学习交流，严禁用于商业用途，请于24小时内删除。
+This resource is for learning only and is strictly prohibited from commercial use. Please delete it within 24 hours.
