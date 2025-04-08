@@ -22,10 +22,13 @@ Specifically designed 16 Timbre NBS and MusicBox collection, broadcast using Dis
 ## 快速开始 / QuickStart
 
 1. **获取NBS文件 / GetNBS**
+   win+R, "cmd"
    ```bash
-   (win+R, "cmd")
    git clone https://github.com/Akitsuki4852/NyaaNBS.git
-2. **模组配置 / ModConfig**
+   ```
+   或者点击右上角下载压缩包
+   Or download zip by clicking top righthand corner
+3. **模组配置 / ModConfig**
 
     安装模组 / install:
     - DiscJockey: https://www.curseforge.com/minecraft/mc-mods/disc-jockey
@@ -34,11 +37,11 @@ Specifically designed 16 Timbre NBS and MusicBox collection, broadcast using Dis
         Use [Notebot](https://github.com/Victormeriqui/Notebot) function in ANY Hacked Client
 
     -> .minecraft/mods/
-3. **DiscJockey**
+4. **DiscJockey**
 
     MerryChristmas.nbs </br>
     -> .minecraft/config/discjockey/songs/
-4. **HackedClient**
+5. **HackedClient**
 
     -> .minecraft/***client/notebot/
 
@@ -141,8 +144,8 @@ Some problem you might encounter:
 
 欢迎通过Pull Request提交
 - 可以脚本播放的.nbs
-    - nbs.autoconverted/类型/[类型]曲名.nbs
-    - nbs.handcrafted/类型/[类型]曲名.nbs
+    - nbs.autoconverted/类型/[类]曲名.nbs
+    - nbs.handcrafted/类型/[类]曲名.nbs
 - 改进的音符盒排列方案.schematic
 - 文档翻译/错误修正/重新规范曲库命名/重新排列曲库分类
 
@@ -151,7 +154,7 @@ Welcome contribution with pr:
     - nbs.autoconverted/genre/[catagory]name.nbs
     - nbs.handcrafted/genre/[catagory]name.nbs
 - improved musicbox design.schemetic
-- text correction/organize and standardize the music library
+- text correction/organize and standardizing the music library
 
 ## 警告 Warning
 
