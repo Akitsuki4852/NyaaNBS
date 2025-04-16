@@ -8,7 +8,9 @@ Specifically designed 16 Timbre NBS and MusicBox collection, broadcast using Dis
 
 ![MusicBox3.0-1](./assets/NyaaMusicBox3.0-1.jpg)
 
+**Contributer**
 
+(TBA)
 
 ## 目录 Catalog
 - [快速开始 / QuickStart](#快速开始--quickstart)
@@ -22,12 +24,15 @@ Specifically designed 16 Timbre NBS and MusicBox collection, broadcast using Dis
 ## 快速开始 / QuickStart
 
 1. **获取NBS文件 / GetNBS**
-   win+R, "cmd"
-   ```bash
-   git clone https://github.com/Akitsuki4852/NyaaNBS.git
-   ```
-   或者点击右上角下载压缩包
-   Or download zip by clicking top righthand corner
+    
+    If you have Git: **win+R, "cmd"**
+
+    ```bash
+    git clone https://github.com/Akitsuki4852/NyaaNBS.git
+    ```
+    或者点击右上角**绿色按钮**下载压缩包
+
+    Or download zip via the **green button** in top righthand corner
 3. **模组配置 / ModConfig**
 
     安装模组 / install:
@@ -139,11 +144,11 @@ Some problem you might encounter:
     - Do not use axe for playing. Stop and repair your musicbox.
     
 
-
 ## 贡献指南 / Contribution
 
 欢迎通过Pull Request提交
 - 可以脚本播放的.nbs
+    - forked.(library)/(.nbs)
     - nbs.autoconverted/类型/[类]曲名.nbs
     - nbs.handcrafted/类型/[类]曲名.nbs
 - 改进的音符盒排列方案.schematic
@@ -151,12 +156,57 @@ Some problem you might encounter:
 
 Welcome contribution with pr:
 - Mod playable .nbs
+    - forked.(library)/(.nbs)
     - nbs.autoconverted/genre/[catagory]name.nbs
     - nbs.handcrafted/genre/[catagory]name.nbs
 - improved musicbox design.schemetic
 - text correction/organize and standardizing the music library
 
-## 警告 Warning
+## 声明 Statement
 
-本资源仅供学习交流，严禁用于商业用途，请于24小时内删除。
-This resource is for learning only and is strictly prohibited from commercial use. Please delete it within 24 hours.
+### 资源中立性声明 / Neutrality Statement
+
+本资源库仅作为音乐文件共享平台，不代表维护者支持或认可任何原创作者的政治倾向、立场及观点。使用者应对内容自行判断。
+
+This repository serves solely as a music file sharing platform. It does not represent the maintainer's endorsement of any original authors' political tendencies, positions or viewpoints. Users shall exercise independent judgment regarding content appropriateness.
+
+### 版权响应 / Copyright Compliance
+所有文件版权归属原作者及权利人。收到版权方正式通知后，我们将在48小时内移除争议内容。侵权通知请提交至：akitsuki4852@gmail.com
+
+All files belong to their respective copyright holders. Upon receiving formal notice from rights owners, we will remove disputed content within 24 hours. Submit DMCA requests to: akitsuki4852@gmail.com
+
+### 无担保声明 / No Warranty
+资源按"现状"提供，维护者不承诺：
+- 音色与游戏版本的永久兼容性
+- 文件完全无版权争议
+- 资源存储的永久可用性
+
+Resources provided "AS IS" with no warranties:
+- Permanent compatibility with game versions
+- Complete absence of copyright disputes
+- Permanent availability of resources
+
+### 使用者责任 / User Responsibility
+使用者需确保：
+- 遵守服务器插件政策（如禁止Notebot）
+- 不将资源用于商业盈利
+
+Users shall ensure:
+- Compliance with server plugin policies (e.g. Notebot restrictions)
+- Non-commercial usage
+
+### 免责条款 / Limitation of Liability
+
+维护者不对以下情况：
+- 因使用资源导致的账号封禁
+- 文件下载引发的系统安全问题
+
+Maintainers not liable for:
+- Account bans caused by resource usage
+- System security issues from file downloads
+
+### 协议变更权 / Terms Modification
+
+我们保留随时更新本声明的权利，恕不另行通知。</br>
+We reserve the right to modify these terms at any time without prior notice.
+
