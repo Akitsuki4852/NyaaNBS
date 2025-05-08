@@ -10,6 +10,12 @@ from audio_similarity import AudioSimilarity
 from pydub import AudioSegment
 import pyloudnorm as pyln
 
+# ======= New comment ===========
+'''
+I recommand using the following website instead:
+https://mippia.com/
+This script is not reliable.
+'''
 # ======= ONLY MODIFY THIS LINE TO CHANGE THE FOLDER =======
 base_folder = './TTB/'  # Change this to your target song folder
 swap_compare = True  # Specifies which is "comparison file", and should be audio of yours.
