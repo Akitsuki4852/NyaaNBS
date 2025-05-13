@@ -105,7 +105,7 @@ Core Principle: Ensure every noteblock is reachable by player.
 You can use MiniHud Mod to draw the range ball with following data:
 
 - Player Camera Height: +1.6
-- Vanilla Reach: 4.5
+- Vanilla Reach: 5.5
 
 推荐将相同方块聚集摆放，且将南瓜/灵魂沙/萤石/浮冰堆放到较远离观众方向。</br>
 It is recommanded to place same blocks together, while pumpkin/soulsand/glowstone/ice parts stay in the side away from audiences.
