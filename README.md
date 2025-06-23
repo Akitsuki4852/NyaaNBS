@@ -3,9 +3,10 @@
 由于NBS开发组声明不官方支持而存在的DiscJockey/Notebot专用NBS曲库。这不是我的私人曲库，欢迎任何人加入。
 A NBS library to support DiscJockey/Notebot, exist because NBS dev team decided not to. This is not private library, wellcome anyone joining.
 
-![Using](.\assets\JukeBox3.6v3-Using.png)!
+![Using](./assets/JukeBox3.6v3-Using.png)
 
 **Contributer**
+
 暂时只有我自己...
 Still only me...
 
@@ -67,7 +68,7 @@ Still only me...
 
 ## 舞台搭建指南 / Stage Buildup
 
-![NyaaMusicBox3.0-2](./assets/JukeBox3.6v4-1.jpg)
+![JukeBox3.6v4-1](./assets/JukeBox3.6v4-1.jpg)
 
 核心原则：只要所有音符盒位于玩家交互范围内且不被遮挡。 </br>
 Core Principle: Ensure every noteblock is reachable by player and is playable.
