@@ -7,8 +7,7 @@ A NBS library to support DiscJockey/Notebot, exist because NBS dev team decided 
 
 **Contributor**
 
-暂时只有我自己...
-Still only me...
+N/A
 
 ## 目录 Catalog
 
@@ -31,11 +30,16 @@ Still only me...
    git clone https://github.com/Akitsuki4852/NyaaNBS.git
    ```
 
-   或者点击右上角**绿色按钮**下载压缩包
-
+   或者点击右上角**绿色按钮**下载压缩包</br>
    Or download zip via the **green button** in top righthand corner
 
-
+   ***
+   不再保留其他曲库的文件，原址如下:</br>
+   Those forked lib are no longer appended, check original links:
+   - [**Chinese-Song-nbs**](https://github.com/kuan-tw/Chinese-Songs-nbs): It contains a rich collection of Chinese song NBS files.
+   - [**NBS-Files**](https://github.com/CursedBM81/NBS-Files): A song library converted directly from MIDI by the author.
+   - [**nbs**](https://github.com/TheInfamousAlk/nbs): Same as above.
+   ***
 2. **安装模组 / Mod to install:**
 
    **[ModMenu](https://modrinth.com/mod/modmenu) + [DiscJockey](https://www.curseforge.com/minecraft/mc-mods/disc-jockey)**</br>
@@ -87,7 +91,7 @@ It is recommended to place same blocks together, while pumpkin/soulsand/glowston
 推荐使用提供的投影: </br>
 Recommand using our provided schematics:
 
-- vanilla reach : [Jukebox0.0v2](./schematics/Jukebox0.0v2.litematic)
+- vanilla reach : (there is a better one, update next time.)
 - +1.2 reach : [Jukebox1.2v1](./schematics/Jukebox1.2v1.litematic)
 - +3.6 reach : [Jukebox3.6v2](./schematics/Jukebox3.6v2.litematic)
 
