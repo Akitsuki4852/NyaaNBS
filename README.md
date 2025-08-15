@@ -203,7 +203,8 @@ We reserve the right to modify these terms at any time without prior notice.
 
 > 您**可以使用命令方块**：可利用 **/playsound** 直接播放音源文件，实现类似 MIDI 播放器的效果。
 
-3. 如果您在评估以上方案后，仍坚持 **“仅/tickrate 更变的原教旨主义红石音乐”** 架构，也可一键生成本曲库中的 .nbs 文件，但这**并不会让您真正掌握红石音乐的创作技巧**。
+如果您在评估以上方案后，仍坚持 **“仅/tickrate 更变的原教旨主义红石音乐”** 架构，也可一键生成本曲库中的 .nbs 文件，但这**并不会让您真正掌握红石音乐的创作技巧**。
+
 ---
 Please note that all .nbs files in this library are **arranged under vanilla Minecraft note-block constraints—limited pitch range, instrument balance, and Notebot’s lack of volume control**. To fit within these boundaries, the arrangements make significant compromises, including **imprecise chord voicings, instrument substitutions, and even the omission of secondary melodies, arpeggios, sound-effect layers, or drum parts**. Although these files can theoretically be used for redstone music, you should carefully consider the following before proceeding:
 
@@ -219,4 +220,4 @@ Please note that all .nbs files in this library are **arranged under vanilla Min
 
 > **Command blocks allowed**: use **/playsound** to play soundfont files directly and build a MIDI-style track.
 
-3. If, after reviewing the above options, you still insist on a **“pure, /tickrate only vanilla redstone music”** approach, you can auto-generate these .nbs files—but it won’t teach you any genuine redstone music composition techniques.
+If, after reviewing the above options, you still insist on a **“pure, /tickrate only vanilla redstone music”** approach, you can auto-generate these .nbs files—but it won’t teach you any genuine redstone music composition techniques.
