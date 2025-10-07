@@ -1,3 +1,4 @@
+# 将NBS音符间距由3倍压缩为1倍 / compress NBS note spacing from 3× to 1×
 import pynbs
 
 def compress_nbs_file(input_path, output_path):
