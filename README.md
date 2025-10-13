@@ -60,7 +60,7 @@ git clone https://github.com/Akitsuki4852/NyaaNBS.git
 
 📂 **收集所有NBS文件 / Collect All NBS Files:**
 
-在 `nbs.handcrafted` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：
+在 `nbs.handcrafted` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：</br>
 A utility script `collect_all_nbs.bat` is provided in the `nbs.handcrafted` folder:
 
 - 双击运行即可将当前以及子文件夹中所有的.nbs文件收集到 `_collected_nbs`文件夹中
