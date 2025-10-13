@@ -32,10 +32,13 @@ The first half teaches how to use mod for playback。
 
 ## 快速开始 / QuickStart
 
-⬇️ **快速下载 / Quick Download:**
+⬇️ **下载本库曲包 / Download This library:**
 
-- 点击右上角**绿色按钮**，选择"Download ZIP"下载压缩包
-- Click the **green button** in top right corner, choose "Download ZIP"
+<div align="center">
+  <a href="https://github.com/Akitsuki4852/NyaaNBS/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/-%E7%82%B9%E5%87%BB%E4%B8%8B%E8%BD%BD%20%2F%20Download%20ZIP-brightgreen?style=for-the-badge&logo=github" alt="Download ZIP" />
+  </a>
+</div>
 
 <details><summary>高级用户 / Advanced Users (Git)</summary>
 
@@ -52,6 +55,9 @@ git clone https://github.com/Akitsuki4852/NyaaNBS.git
 
 </details>
 
+</br>
+---
+
 📂 **收集所有NBS文件 / Collect All NBS Files:**
 
 在 `nbs.handcrafted` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：
@@ -66,7 +72,7 @@ A utility script `collect_all_nbs.bat` is provided in the `nbs.handcrafted` fold
 
 ---
 
-**安装模组 / Mod to install:**
+⚙️ **安装模组 / Mod to install:**
 
 **[ModMenu](https://modrinth.com/mod/modmenu) + [DiscJockey](https://www.curseforge.com/minecraft/mc-mods/disc-jockey)**</br>
 or **[MeteorClient](https://meteorclient.com/)** </br>
@@ -74,7 +80,9 @@ or **[MeteorClient](https://meteorclient.com/)** </br>
 > 注意彗星端是挂端。请合规使用。<br>
 > To be warned MeteorClient is a hacked client. Please use in compliance.
 
-**曲库位置 / Where to put songs**
+---
+
+📂 **曲库位置 / Where to put songs**
 
 > .minecraft/config/discjockey/songs/ -songs.nbs
 
