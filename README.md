@@ -1,11 +1,5 @@
 # NyaaNBS
 
-> ⚠️ **重要提示 / IMPORTANT NOTICE (2025/10/13-2025/12/25)**
-> 
-> 由于特殊情况，临时禁止将本曲库中的作品用于任何与"M.A.E.S.T.R.O."相关的活动。违反此规定或在未经授权的情况下使用本作品的用户将被永久禁止访问和使用本曲库。相关问题将在2025年12月25日后重新评估。
-> 
-> Due to special circumstances, submissions of works from this library or derivative works to any "M.A.E.S.T.R.O."-related events are temporarily prohibited. Users who violate this restriction or use these works without proper authorization will be permanently banned from accessing and using this library. The related concerns will be re-evaluated after December 25, 2025.
-
 由于NBS开发组声明不官方支持而存在的DiscJockey/Notebot专用NBS曲库。</br>
 A NBS library to support DiscJockey/Notebot since NBS dev team decided not to.
 
@@ -51,7 +45,7 @@ git clone https://github.com/Akitsuki4852/NyaaNBS.git
 <details><summary>其他曲库 / Other Collections</summary>
 
 - [**NBS-Files**](https://github.com/CursedBM81/NBS-Files): A song library converted directly from MIDI by the author.
-- [**nbs**](https://github.com/TheInfamousAlk/nbs): Same as above.
+- [**nbs**](https://github.com/TheInfamousAlk/nbs): The largest notebot-lib.
 
 </details>
 
