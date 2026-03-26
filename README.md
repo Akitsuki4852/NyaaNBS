@@ -9,13 +9,11 @@ A NBS library to support DiscJockey/Notebot.
 
 <a href="https://github.com/Akitsuki4852/NyaaNBS/contributors">
   <img src="https://contrib.rocks/image?repo=Akitsuki4852/NyaaNBS" height="50" alt="contributors" />
-  <img src="https://github.com/LingYi0110.png" style="width: 50px; height: 50px; border-radius: 50%;", alt="LingYi0110" />
 </a>
+<img src="https://github.com/LingYi0110.png" style="width: 50px; height: 50px; border-radius: 50%;", alt="LingYi0110" />
 
-Contributing: QQ1049026039 / Pull Request
+Contributing: QQ1049026039 / Pull Request </br>
 **歡迎提交，感激不盡**/**Any submissions would be greatly appreciated.**
-
-
 
 ## 目录 Catalog
 
