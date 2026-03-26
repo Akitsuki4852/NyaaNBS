@@ -1,20 +1,21 @@
 # NyaaNBS
 
-由于NBS开发组声明不官方支持而存在的DiscJockey/Notebot专用NBS曲库。</br>
-A NBS library to support DiscJockey/Notebot since NBS dev team decided not to.
+DiscJockey/Notebot专用NBS曲库。</br>
+A NBS library to support DiscJockey/Notebot.
 
-此曲库中应当不存在超音域，资源包，音量变更，使用声相，以及变速。如果发现问题请务必提出。</br>
-NBS in this library shall not be out-of-ranged, using resourcepacks, adjusting volume/velocity/panning and using tempo changed. If it is, please report.
-
-此文档前半讲解播放插件的使用。</br>
-The first half teaches how to use mod for playback。
 ![Using](./assets/JukeBox3.6v3-Using.png)
 
-### Contributor
+### Contributors
 
 <a href="https://github.com/Akitsuki4852/NyaaNBS/contributors">
-<img src="https://contrib.rocks/image?repo=Akitsuki4852/NyaaNBS"/>
+  <img src="https://contrib.rocks/image?repo=Akitsuki4852/NyaaNBS" height="50" alt="contributors" />
+  <img src="https://github.com/LingYi0110.png" style="width: 50px; height: 50px; border-radius: 50%;", alt="LingYi0110" />
 </a>
+
+Contributing: QQ1049026039 / Pull Request
+**歡迎提交，感激不盡**/**Any submissions would be greatly appreciated.**
+
+
 
 ## 目录 Catalog
 
@@ -34,35 +35,25 @@ The first half teaches how to use mod for playback。
   </a>
 </div>
 
-<details><summary>高级用户 / Advanced Users (Git)</summary>
-
 ```bash
 git clone https://github.com/Akitsuki4852/NyaaNBS.git
 ```
 
-</details>
+### 推荐其他来源/ Find Out More
 
-<details><summary>其他曲库 / Other Collections</summary>
-
+- [**NBSWorld**](https://noteblock.world/): Largest public community centered around Minecraft note blocks, provided by NBS dev team.
 - [**NBS-Files**](https://github.com/CursedBM81/NBS-Files): A song library converted directly from MIDI by the author.
 - [**nbs**](https://github.com/TheInfamousAlk/nbs): The largest notebot-lib.
 
-</details>
-
-</br>
 ---
 
 📂 **收集所有NBS文件 / Collect All NBS Files:**
 
-在 `nbs.handcrafted` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：</br>
-A utility script `collect_all_nbs.bat` is provided in the `nbs.handcrafted` folder:
+-在 `scripts` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：
+-A utility script `collect_all_nbs.bat` is provided in the `scripts` folder: </br>
 
-- 双击运行即可将当前以及子文件夹中所有的.nbs文件收集到 `_collected_nbs`文件夹中
-- Double-click to collect all .nbs files from all subfolders into `_collected_nbs` folder
-- 这对于批量复制到游戏目录很有帮助
-- This is helpful for bulk copying to your game directory
-- 你也可以只在想要的分区里使用
-- You may also only run it in the category folder wanted
+-双击运行即可将当前以及子文件夹中所有的.nbs文件收集到 `_collected_nbs`文件夹中
+-Double-click to collect all .nbs files from all subfolders into `_collected_nbs` folder
 
 ---
 
@@ -205,7 +196,9 @@ If, after reviewing the above options, you still insist on a **“pure, /tickrat
 
 </details>
 
-## 声明 Statement
+## ⚠️ 版权与免责声明 (Important Disclaimer)
+
+**在下载或使用本项目前，请务必阅读以下条款：**
 
 ### 资源中立性声明 / Neutrality Statement
 
@@ -215,7 +208,19 @@ This repository serves solely as a music file sharing platform. It does not repr
 ### 版权响应 / Copyright Compliance
 
 所有文件版权归属原作者及权利人。收到版权方正式通知后，我们将在48小时内移除争议内容。侵权通知请提交至：akitsuki4852@gmail.com</br>
-All files belong to their respective copyright holders. Upon receiving formal notice from rights owners, we will remove disputed content within 24 hours. Submit DMCA requests to: akitsuki4852@gmail.com
+All files belong to their respective copyright holders. Upon receiving formal notice from rights owners, we will remove disputed content within 48 hours. Submit DMCA requests to: akitsuki4852@gmail.com
+
+### 使用者责任 / User Responsibility
+
+使用者需确保：
+
+- 遵守服务器插件政策（如禁止Notebot）
+- 不将资源用于商业盈利
+
+Users shall ensure:
+
+- Compliance with server plugin policies (e.g. Notebot restrictions)
+- Non-commercial usage
 
 ### 无担保声明 / No Warranty
 
@@ -230,18 +235,6 @@ Resources provided "AS IS" with no warranties:
 - Permanent compatibility with game versions
 - Complete absence of copyright disputes
 - Permanent availability of resources
-
-### 使用者责任 / User Responsibility
-
-使用者需确保：
-
-- 遵守服务器插件政策（如禁止Notebot）
-- 不将资源用于商业盈利
-
-Users shall ensure:
-
-- Compliance with server plugin policies (e.g. Notebot restrictions)
-- Non-commercial usage
 
 ### 免责条款 / Limitation of Liability
 
@@ -270,6 +263,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 ✅ 可以分享，改编 / Share and adapt
 ✅ 必须署名 / Must give credit
 ❌ 禁止商业用途 / No commercial use
-
-详细条款请见 [CONTRIBUTING.md](./CONTRIBUTING.md) / See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
