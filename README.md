@@ -16,13 +16,6 @@ A NBS library to support DiscJockey/Notebot.
 Contributing: QQ1049026039 / Pull Request </br>
 **歡迎提交，感激不盡**/**Any submissions would be greatly appreciated.**
 
-## 目录 Catalog
-
-- [快速开始 / QuickStart](#快速开始--quickstart)
-- [游戏中使用 / Usage](#游戏中使用--usage)
-- [排疑解难 / Trouble Shoot](#排疑解难--trouble-shoot)<br><br>
-- [额外注意事项 / Additional Notice](#额外注意事项--additional-notice)
-- [声明 / Statement](#声明-statement)
 
 ## 快速开始 / QuickStart
 
@@ -38,25 +31,16 @@ Contributing: QQ1049026039 / Pull Request </br>
 git clone https://github.com/Akitsuki4852/NyaaNBS.git
 ```
 
-### 推荐其他来源/ Find Out More
+**推荐其他来源/ Find Out More**
 
 - [**NBSWorld**](https://noteblock.world/): Largest public community centered around Minecraft note blocks, provided by NBS dev team.
 - [**NBS-Files**](https://github.com/CursedBM81/NBS-Files): A song library converted directly from MIDI by the author.
-- [**nbs**](https://github.com/TheInfamousAlk/nbs): The largest notebot-lib.
+- [**notebot-lib**](https://github.com/TheInfamousAlk/nbs): The largest notebot-lib.
+
 
 ---
 
-📂 **收集所有NBS文件 / Collect All NBS Files:**
-
--在 `scripts` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：
--A utility script `collect_all_nbs.bat` is provided in the `scripts` folder: </br>
-
--双击运行即可将当前以及子文件夹中所有的.nbs文件收集到 `_collected_nbs`文件夹中
--Double-click to collect all .nbs files from all subfolders into `_collected_nbs` folder
-
----
-
-⚙️ **安装模组 / Mod to install:**
+## ⚙️ **安装模组 / Mod to install:**
 
 **[ModMenu](https://modrinth.com/mod/modmenu) + [DiscJockey](https://www.curseforge.com/minecraft/mc-mods/disc-jockey)**</br>
 or **[MeteorClient](https://meteorclient.com/)** </br>
@@ -64,7 +48,7 @@ or **[MeteorClient](https://meteorclient.com/)** </br>
 > 注意彗星端是挂端。请合规使用。<br>
 > To be warned MeteorClient is a hacked client. Please use in compliance.
 
----
+
 
 📂 **曲库位置 / Where to put songs**
 
@@ -72,11 +56,16 @@ or **[MeteorClient](https://meteorclient.com/)** </br>
 
 > .minecraft/meteor-client/notebot/ -songs.nbs
 
-NBS (如果你想编曲 if you want to arrange yourself)
+📂 **收集所有NBS文件 / Collect All NBS Files:**
 
-**Note Block Studio** https://noteblock.studio/
+> 在 `scripts` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：</br>
+> A utility script `collect_all_nbs.bat` is provided in the `scripts` folder: 
 
-## 游戏中使用 / PlayBack
+> 双击运行即可将当前以及子文件夹中所有的.nbs文件收集到 `_collected_nbs`文件夹中 </br>
+> double-click to collect all .nbs files from all subfolders into `_collected_nbs` folder
+
+
+## 🎶 游戏中使用 / PlayBack
 
 <details><summary> DiscJockey User</summary>
 如果使用非原版交互距离音乐盒，在Mod Menu模组设定中找到”期望版本“，选择1.20.5+ </br>
@@ -106,13 +95,9 @@ You can use MiniHud Mod to draw the range ball with following data:
 一些播放器投影: </br>
 Some disco ball schematics:
 
-(update next time.)
+- vanilla reach : [Notebot音乐台2.0(388note)](./schematics/Jukebox0.0.388note.byMI_KA_SA_.litematic) by [MI_KA_SA_](https://www.bilibili.com/video/BV1hPPieDEAi/)
+- +3.6 reach : [Jukebox3.6](./schematics/Jukebox3.6.byAkitsuki4852.litematic) by Akitsuki4852
 
-<!--
-- vanilla reach : (there is a better one, update next time.)
-- +1.2 reach : [Jukebox1.2v1](./schematics/Jukebox1.2v1.litematic)
-- +3.6 reach : (there is a better one, update next time.)
--->
 
 ## 排疑解难 / Trouble Shoot
 
