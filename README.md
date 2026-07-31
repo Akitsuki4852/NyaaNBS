@@ -16,14 +16,13 @@ A NBS library to support DiscJockey/Notebot.
 Contributing: QQ1049026039 / Pull Request </br>
 **歡迎提交，感激不盡**/**Any submissions would be greatly appreciated.**
 
-
 ## 快速开始 / QuickStart
 
 ⬇️ **下载本库曲包 / Download This library:**
 
 <div align="center">
   <a href="https://github.com/Akitsuki4852/NyaaNBS/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/-%E7%82%B9%E5%87%BB%E4%B8%8B%E8%BD%BD%20%2F%20Download%20ZIP-brightgreen?style=for-the-badge&logo=github" alt="Download ZIP" />
+    <img src="https://img.shields.io/badge/%E7%82%B9%E5%87%BB%E4%B8%8B%E8%BD%BD%20%2F%20Download%20ZIP-brightgreen?style=for-the-badge&logo=github" alt="Download ZIP">
   </a>
 </div>
 
@@ -31,11 +30,14 @@ Contributing: QQ1049026039 / Pull Request </br>
 git clone https://github.com/Akitsuki4852/NyaaNBS.git
 ```
 
+
 **推荐其他来源/ Find Out More**
 
-- [**NBSWorld**](https://noteblock.world/): Largest public community centered around Minecraft note blocks, provided by NBS dev team.
-- [**NBS-Files**](https://github.com/CursedBM81/NBS-Files): A song library converted directly from MIDI by the author.
-- [**notebot-lib**](https://github.com/TheInfamousAlk/nbs): The largest notebot-lib.
+
+[![**NBSWorld**](https://img.shields.io/badge/Web-NBSWorld-lightblue?style=for-the-badge&logo=searxng)](https://noteblock.world/) Provided by NBS dev team.</br>
+[![**NBS**](https://img.shields.io/badge/Web-NBS-lightblue?style=for-the-badge&logo=searxng)](https://mcutils.com/note-block-songs) NoteblockAPI lib.</br>
+[![**NBS-Files**](https://img.shields.io/badge/Github-NBS-lightblue?style=for-the-badge&logo=github)](https://github.com/CursedBM81/NBS-Files) A song library converted directly from MIDI by the author.</br>
+
 
 
 ---
@@ -44,6 +46,7 @@ git clone https://github.com/Akitsuki4852/NyaaNBS.git
 
 **[ModMenu](https://modrinth.com/mod/modmenu) + [DiscJockey](https://www.curseforge.com/minecraft/mc-mods/disc-jockey)**</br>
 or **[MeteorClient](https://meteorclient.com/)** </br>
+or (Any notebot function) </br>
 
 > 注意彗星端是挂端。请合规使用。<br>
 > To be warned MeteorClient is a hacked client. Please use in compliance.
@@ -108,6 +111,9 @@ Some problem you might encounter:
 
 - 请检查是否需要交互距离工具。请检查是否打开DJ mod 1.20.5+选项。如未发现问题请检查音乐盒投影。
 - Check if you need a tool for increasing your reach. Check if you had opened DJ mod 1.20.5+ config. If so please verify musicbox using provided schmetic.
+
+- 部分模组对球形距离的计算略有差异，可能导致“够不到”。
+- Some mod may calculate the spherical distance differently, which may cause "out of reach".
 
 </details>
 <details><summary>游戏崩溃 Crash:</summary>
@@ -243,8 +249,8 @@ We reserve the right to modify these terms at any time without prior notice.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
-使用规则 / Usage Terms:
-✅ 可以分享，改编 / Share and adapt
-✅ 必须署名 / Must give credit
+使用规则 / Usage Terms:</br>
+✅ 可以分享，改编 / Share and adapt</br>
+✅ 必须署名 / Must give credit</br>
 ❌ 禁止商业用途 / No commercial use
 
