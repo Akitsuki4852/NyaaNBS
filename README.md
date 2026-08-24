@@ -3,7 +3,7 @@
 DiscJockey/Notebot专用NBS曲库。</br>
 A NBS library to support DiscJockey/Notebot.
 
-![Using](./assets/JukeBox3.6v3-Using.png)
+![CoverPage](https://akitsuki4852.github.io/Pic/assets/JukeBox3.6v3-Using.png)
 
 ### Contributors
 
@@ -12,9 +12,9 @@ A NBS library to support DiscJockey/Notebot.
   <img src="https://github.com/LingYi0110.png" style="width: 50px; height: 50px; border-radius: 50%;", alt="LingYi0110" />
 </a>
 
-
 Contributing: QQ1049026039 / Pull Request </br>
 **歡迎提交，感激不盡**/**Any submissions would be greatly appreciated.**
+**若不希望出现PR记录可以联系维护者代投**/**If you don't want to appear in the PR, submit via private message.**
 
 ## 快速开始 / QuickStart
 
@@ -30,15 +30,16 @@ Contributing: QQ1049026039 / Pull Request </br>
 git clone https://github.com/Akitsuki4852/NyaaNBS.git
 ```
 
-
 **推荐其他来源/ Find Out More**
 
-
-[![**NBSWorld**](https://img.shields.io/badge/Web-NBSWorld-lightblue?style=for-the-badge&logo=searxng)](https://noteblock.world/) Provided by NBS dev team.</br>
-[![**NBS**](https://img.shields.io/badge/Web-NBS-lightblue?style=for-the-badge&logo=searxng)](https://mcutils.com/note-block-songs) NoteblockAPI lib.</br>
-[![**NBS-Files**](https://img.shields.io/badge/Github-NBS-lightblue?style=for-the-badge&logo=github)](https://github.com/CursedBM81/NBS-Files) A song library converted directly from MIDI by the author.</br>
-
-
+[![**NBSWorld**](https://img.shields.io/badge/Web-NBSWorld-lightblue?style=for-the-badge&logo=searxng)](https://noteblock.world/)</br>
+NBS开发组提供的分享平台。Provided by NBS dev team.</br>
+你需要使用Google/Github/Discord账号**注册后**才能下载。You need to register with Google/Github/Discord account to download.</br>
+平台中的Standard License表示**禁止转载**。Standard License in the platform means **No Redistribution**.</br>
+[![**NBS**](https://img.shields.io/badge/Web-NBS-lightblue?style=for-the-badge&logo=searxng)](https://mcutils.com/note-block-songs)</br>
+一个很大的(比较早的)曲库。A large (relatively old) library from NoteblockAPI.</br>
+[![**NBS-Files**](https://img.shields.io/badge/Github-NBS-lightblue?style=for-the-badge&logo=github)](https://github.com/CursedBM81/NBS-Files)</br>
+一个由作者直接从MIDI转换而来的歌曲库。A song library converted directly from MIDI by the author.</br>
 
 ---
 
@@ -48,10 +49,11 @@ git clone https://github.com/Akitsuki4852/NyaaNBS.git
 or **[MeteorClient](https://meteorclient.com/)** </br>
 or (Any notebot function) </br>
 
-> 注意彗星端是挂端。请合规使用。<br>
-> To be warned MeteorClient is a hacked client. Please use in compliance.
+注意彗星端是**外挂端**。请合规使用。<br>
+To be warned MeteorClient is a hacked client. Please use in compliance.
 
-
+即使不使用挂端，Notebot类模组严格意义上也属于Class PlayerInteractBlockC2SPacket的发包类型。请提前询问管理员再使用。<br>
+Even if you don't use a hacked client, Notebot-like mods strictly speaking belong to Class PlayerInteractBlockC2SPacket packet type. Please ask the administrator before using notebot mods.
 
 📂 **曲库位置 / Where to put songs**
 
@@ -62,11 +64,10 @@ or (Any notebot function) </br>
 📂 **收集所有NBS文件 / Collect All NBS Files:**
 
 > 在 `scripts` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：</br>
-> A utility script `collect_all_nbs.bat` is provided in the `scripts` folder: 
+> A utility script `collect_all_nbs.bat` is provided in the `scripts` folder:
 
 > 双击运行即可将当前以及子文件夹中所有的.nbs文件收集到 `_collected_nbs`文件夹中 </br>
 > double-click to collect all .nbs files from all subfolders into `_collected_nbs` folder
-
 
 ## 🎶 游戏中使用 / PlayBack
 
@@ -84,7 +85,7 @@ Stand inside the expected position in MusicBox, open notebot panel in your Clien
 
 ## 舞台搭建指南 / Stage Buildup
 
-![JukeBox3.6v4-1](./assets/JukeBox3.6v4-1.jpg)
+![UnderJukebox](https://akitsuki4852.github.io/Pic/assets/JukeBox3.6v4-1.jpg)
 
 核心原则：只需要让所有音符盒位于玩家交互范围内且可以发声。如何摆放只影响视听体验与范围内的最大放置数量 </br>
 Core Principle: Ensure every noteblock is reachable by player and is playable. How it is placed only matters for how it sounds and the max noteblock number in range.
@@ -101,7 +102,6 @@ Some disco ball schematics:
 - vanilla reach : [Notebot音乐台2.0(388note)](./schematics/Jukebox0.0.388note.byMI_KA_SA_.litematic) by [MI_KA_SA_](https://www.bilibili.com/video/BV1hPPieDEAi/)
 - +3.6 reach : [Jukebox3.6](./schematics/Jukebox3.6.byAkitsuki4852.litematic) by Akitsuki4852
 
-
 ## 排疑解难 / Trouble Shoot
 
 一些你可能会遇到的问题: </br>
@@ -111,15 +111,16 @@ Some problem you might encounter:
 
 - 请检查是否需要交互距离工具。请检查是否打开DJ mod 1.20.5+选项。如未发现问题请检查音乐盒投影。
 - Check if you need a tool for increasing your reach. Check if you had opened DJ mod 1.20.5+ config. If so please verify musicbox using provided schmetic.
-
 - 部分模组对球形距离的计算略有差异，可能导致“够不到”。
 - Some mod may calculate the spherical distance differently, which may cause "out of reach".
 
 </details>
 <details><summary>游戏崩溃 Crash:</summary>
 
-- 不要使用DJ mod播放含有自定义乐器的.nbs。不要在空白曲库点击随机播放。
-- Do not use customized instrument with DJ mod. Do not click random play with empty music library.
+- 不要使用DJ mod播放含有自定义乐器的.nbs。
+- Do not use customized instrument with DJ mod.
+- 不要在空白曲库点击随机播放。
+- Do not click random play with empty music library.
 
 </details>
 
@@ -192,8 +193,8 @@ If, after reviewing the above options, you still insist on a **“pure, /tickrat
 
 ### 资源中立性声明 / Neutrality Statement
 
-本资源库仅作为音乐文件共享平台，不代表维护者支持或认可任何原创作者的政治倾向、立场及观点。使用者应对内容自行判断。</br>
-This repository serves solely as a music file sharing platform. It does not represent the maintainer's endorsement of any original authors' political tendencies, positions or viewpoints. Users shall exercise independent judgment regarding content appropriateness.
+本资源库仅作为文件共享平台，不代表维护者支持或认可任何原创作者的政治倾向、立场及观点。使用者应对内容自行判断。</br>
+This repository serves solely as a file sharing platform. It does not represent the maintainer's endorsement of any original authors' political tendencies, positions or viewpoints. Users shall exercise independent judgment regarding content appropriateness.
 
 ### 版权响应 / Copyright Compliance
 
