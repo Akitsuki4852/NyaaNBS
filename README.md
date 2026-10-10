@@ -13,9 +13,14 @@ A NBS library to support DiscJockey/Notebot.
   <img src="https://akitsuki4852.github.io/Pic/assets/QQ图片20261011000318.jpg" style="width: 50px; height: 50px; border-radius: 50%;", alt="Deso1atSkadi" />
 </a>
 
-Contributing: QQ1049026039 / Pull Request </br>
-**歡迎提交，感激不盡**/**Any submissions would be greatly appreciated.**
+
+**歡迎提交，感激不盡**/**Any submissions would be greatly appreciated.**</br>
 **若不希望出现PR记录可以联系维护者代投**/**If you don't want to appear in the PR, submit via private message.**
+
+🎵 点歌单 / Song Requests Checklist：[点歌单](./点歌单.md)，</br>
+📑 可以用 [Issue](https://github.com/Akitsuki4852/NyaaNBS/issues/new) 提交请求/ open an [issue](https://github.com/Akitsuki4852/NyaaNBS/issues/new).
+
+Contributing: 联系QQ1049026039 / 直接推送到本仓库（Pull Request） </br>
 
 ## 快速开始 / QuickStart
 
@@ -36,7 +41,7 @@ git clone https://github.com/Akitsuki4852/NyaaNBS.git
 [![**NBSWorld**](https://img.shields.io/badge/Web-NBSWorld-lightblue?style=for-the-badge&logo=searxng)](https://noteblock.world/)</br>
 NBS开发组提供的分享平台。Provided by NBS dev team.</br>
 你需要使用Google/Github/Discord账号**注册后**才能下载。You need to register with Google/Github/Discord account to download.</br>
-平台中的Standard License表示**禁止转载**。Standard License in the platform means **No Redistribution**.</br>
+**Standard License** 表示**禁止转载**。**Standard License** means **No Redistribution**.</br>
 [![**NBS**](https://img.shields.io/badge/Web-NBS-lightblue?style=for-the-badge&logo=searxng)](https://mcutils.com/note-block-songs)</br>
 一个很大的(比较早的)曲库。A large (relatively old) library from NoteblockAPI.</br>
 [![**NBS-Files**](https://img.shields.io/badge/Github-NBS-lightblue?style=for-the-badge&logo=github)](https://github.com/CursedBM81/NBS-Files)</br>
