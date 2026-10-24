@@ -18,9 +18,12 @@ A NBS library to support DiscJockey/Notebot.
 **若不希望出现PR记录可以联系维护者代投**/**If you don't want to appear in the PR, submit via private message.**
 
 🎵 点歌单 / Song Requests Checklist：[点歌单](./点歌单.md)，</br>
-📑 可以用 [Issue](https://github.com/Akitsuki4852/NyaaNBS/issues/new) 提交请求/ open an [issue](https://github.com/Akitsuki4852/NyaaNBS/issues/new).
+📑 可以用 [Issue](https://github.com/Akitsuki4852/NyaaNBS/issues/new) 提交请求或移步b站动态评论区。
 
-Contributing: 联系QQ1049026039 / 直接推送到本仓库（Pull Request） </br>
+### Contributing: 
+联系 QQ1049026039 或 **直接推送到本仓库**。 </br>
+2026/10/24：新增 **Auto-tuned分区** 。欢迎投送一键转换产物。</br>
+
 
 ## 快速开始 / QuickStart
 
@@ -44,8 +47,11 @@ NBS开发组提供的分享平台。Provided by NBS dev team.</br>
 **Standard License** 表示**禁止转载**。**Standard License** means **No Redistribution**.</br>
 [![**NBS**](https://img.shields.io/badge/Web-NBS-lightblue?style=for-the-badge&logo=searxng)](https://mcutils.com/note-block-songs)</br>
 一个很大的(比较早的)曲库。A large (relatively old) library from NoteblockAPI.</br>
+[![**WebNBSbbs**](https://img.shields.io/badge/Web-NBS-lightblue?style=for-the-badge&logo=github)](https://bbs.webnbs.com)</br>
+WebNBS的论坛。WebNBS Forum.</br>
 [![**NBS-Files**](https://img.shields.io/badge/Github-NBS-lightblue?style=for-the-badge&logo=github)](https://github.com/CursedBM81/NBS-Files)</br>
 一个由作者直接从MIDI转换而来的歌曲库。A song library converted directly from MIDI by the author.</br>
+
 
 ---
 
@@ -69,8 +75,8 @@ Even if you don't use a hacked client, Notebot-like mods strictly speaking belon
 
 📂 **收集所有NBS文件 / Collect All NBS Files:**
 
-> 在 `scripts` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：</br>
-> A utility script `collect_all_nbs.bat` is provided in the `scripts` folder:
+> 在 `songs` 文件夹中提供了一个实用工具 `collect_all_nbs.bat`：</br>
+> A utility script `collect_all_nbs.bat` is provided in the `songs` folder:
 
 > 双击运行即可将当前以及子文件夹中所有的.nbs文件收集到 `_collected_nbs`文件夹中 </br>
 > double-click to collect all .nbs files from all subfolders into `_collected_nbs` folder
